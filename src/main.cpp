@@ -4,7 +4,8 @@ int main(){
 
     pushArray("Matriks dan Vektor");
     displayArray();
-    pushArray("Struktur Data");
+    pushArray("Struktur Data         ");
+    pushArray("anjay mabar");
     displayArray();
     pushArray("Pemrograman Mobile");
     displayArray();
